@@ -1,0 +1,9 @@
+--model_name tulu --llama_size 13 --use_peft 0 --case 0 --prompt_type 1
+--model_name tulu --llama_size 13 --use_peft 0 --case 0 --prompt_type 2
+--model_name tulu --llama_size 13 --use_peft 0 --case 0 --prompt_type 3
+--model_name noushermes --llama_size 13 --use_peft 0 --case 0 --prompt_type 1
+--model_name noushermes --llama_size 13 --use_peft 0 --case 0 --prompt_type 2
+--model_name noushermes --llama_size 13 --use_peft 0 --case 0 --prompt_type 3
+--model_name vicuna --llama_size 13 --use_peft 0 --case 0 --prompt_type 1
+--model_name vicuna --llama_size 13 --use_peft 0 --case 0 --prompt_type 2
+--model_name vicuna --llama_size 13 --use_peft 0 --case 0 --prompt_type 3
